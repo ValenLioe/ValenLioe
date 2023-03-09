@@ -1,4 +1,5 @@
-### Hi there, my name is Valencia Lioe 👋
+<h1 align ="center"> Hai👋, i'm Valencia Lioe</h1>
+<h3 align ="center"> A student from MDP University
 
 <!--
 **ValenLioe/ValenLioe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
