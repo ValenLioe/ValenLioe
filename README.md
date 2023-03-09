@@ -6,10 +6,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **HTML**
-
-- 📫 How to reach me **vvalen.lioee@mhs.mdp.ac.id**
-
 ### and here is my stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=ValenLioe&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
